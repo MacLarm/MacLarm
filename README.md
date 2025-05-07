@@ -6,7 +6,7 @@ I'm McKay Larman, a student at Brigham Young University-Idaho interested in Soft
 
 ## About Me
 
-- I'm currently learning advanced design principles
+- I'm currently learning advanced design principles, contributing on a project focused on assessing AI's ability to preform programming tasks.
 - My goals are to develop elegant software that meets my clients specific needs and can be easily maintained. I want to contribute to a company that is helping to make the world a better place!
 
 ## Technologies and Tools
