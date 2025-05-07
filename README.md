@@ -1,4 +1,4 @@
-# <McKay Larman>
+# McKay Larman
 
 Hello, GitHub! 👋
 
